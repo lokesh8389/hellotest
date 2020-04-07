@@ -6,7 +6,7 @@ public class helloworld
 		for(int i=0;i<11;i++) {
 		    System.out.println("Hello World! - " + i) ;
 			System.out.println("Hello World test!   - " + i) ;
-			    System.out.println("Hello World test Git!   - " + i) ;
+			    System.out.println("Hello World test Git !   - " + i) ;
 			
 		}
 	}
